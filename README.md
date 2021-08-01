@@ -8,5 +8,5 @@
 librafrog/librafrog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Astro-bot-resque-mission-ps5-original](?v=01-08-2021)   saying hello and we'll meet soon :ghost:
+<img title="Emblem" alt="B&Y flower" width="346"  src="https://github.com/librafrog/librafrog/blob/1af87ca4aac192827d56260fab1cf46ac0ace050/jocelyn-morales-iWfp0ofCNt8-unsplash.jpg?v=01-08-2021">   :ghost: saying hello and we'll meet soon
 <img src="https://github.com/favicon.ico" alt="favicon-GitHub" width="32" align="auto"/>
